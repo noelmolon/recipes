@@ -8,7 +8,7 @@
 - 2 eggs
 - chilies
 - creme or yogurt
-- 
+
 ## directions
 - Cook bacon
 - Cook egg in bacon grease
