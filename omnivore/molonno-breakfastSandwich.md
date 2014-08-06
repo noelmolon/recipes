@@ -1,13 +1,14 @@
 # molonno student breakfast sandwich
+
+
+## ingredients
 - Bagel
 - Bacon
 - Cheddar cheese
 - 2 eggs
 - chilies
 - creme or yogurt
-
-## ingredients
-
+- 
 ## directions
 - Cook bacon
 - Cook egg in bacon grease
